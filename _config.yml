@@ -20,10 +20,10 @@
 
 title: Zsombor Koman
 email: zsomko@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Personal website of Zsombor Koman. The page is very much under development,
-  please reach out to me if you are interested in any details not found here
-  or would just like to interact.
+#description: >- # this means to ignore newlines until "baseurl:"
+#  Personal website of Zsombor Koman. The page is very much under development,
+#  please reach out to me if you are interested in any details not found here
+#  or would just like to interact.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb

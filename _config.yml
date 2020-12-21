@@ -27,6 +27,9 @@ email: zsomko@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
+
+google_analytics: G-RDLW089017
+
 github_username:  zsomborkoman
 linkedin_username: zsombor-koman
 

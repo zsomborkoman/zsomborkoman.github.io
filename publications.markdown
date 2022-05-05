@@ -16,7 +16,8 @@ Thesis:
 
 
 Other scientific publications:
-* Koman, Z. (2018). Connecting the dots of network science. WorldQuant Thought Leadership. [<img width="20px" src="/assets/url.png">](https://www.weareworldquant.com/en/thought-leadership/connecting-the-dots-of-network-science/)
+* Koman, Z. (2022).The Next Imitation Game: AI Wins the Nobel. WorldQuant Thought Leadership. [<img width="20px" src="/assets/url.png">](https://www.worldquant.com/ideas/the-next-imitation-game-ai-wins-the-nobel/)
+* Koman, Z. (2018). Connecting the dots of network science. WorldQuant Thought Leadership. [<img width="20px" src="/assets/url.png">](https://www.worldquant.com/ideas/connecting-the-dots-of-network-science/)
 * Janosov, M. & Koman, Z. (2017). How to find key opinion leaders: The #istandwihtCEU Campaign. [<img width="20px" src="/assets/url.png">](https://networkdatascience.ceu.edu/article/2017-06-19/how-find-key-opinion-leaders-istandwithceu-campaign)
 * Koman, Z. (2017). Modeling and abstraction. Ingenia Hungarica III., 35-49.
 * Koman, Z. (2016). Interdisciplinary interactions. Ingenia Hungarica II., 19-35.
